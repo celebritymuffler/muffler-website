@@ -15,7 +15,7 @@ const Video = () => {
         <div className="max-w-4xl mx-auto">
           <div className="relative aspect-video bg-slate-800 rounded-lg overflow-hidden shadow-xl">
             <iframe
-              src="https://www.youtube.com/embed/Z3Qp3ksJdEo"
+              src="https://www.youtube.com/embed/0FpC_X2f9wU"
               title="Muffler Service and Repair - Professional Automotive Service"
               className="w-full h-full"
               frameBorder="0"
